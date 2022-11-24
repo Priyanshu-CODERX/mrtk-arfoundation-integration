@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hand Interaction.unity
+    guid: 3dd4a396b5225f8469b9a1eb608bfa57
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 712422f24835f704ba7aa4a9f96f845c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b57f1868ae700804f80ee8db588398af, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4cab2f7021d7ca04888a2fa9420264b8, type: 2}
